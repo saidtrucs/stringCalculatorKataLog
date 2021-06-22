@@ -1,4 +1,4 @@
-String Calculator [![Build Status](https://travis-ci.org/)](https://travis-ci.org/)
+String Calculator [![Build Status](https://travis-ci.com/saidtrucs/stringCalculatorKataLog.svg?branch=master)](https://travis-ci.org/)
 =================
 
 String calculator kata implemented in java:
