@@ -1,6 +1,3 @@
-String Calculator [![Build Status](https://travis-ci.com/saidtrucs/stringCalculatorKataLog.svg?branch=master)](https://travis-ci.org/)
-=================
-
 String calculator kata implemented in java:
 
 1) Create a simple String calculator with a method int Add(string numbers)
@@ -35,10 +32,3 @@ Developed By
 ------------
 
 * Said BOUGATAYA - <saidtrucs@gmail.com>
-
-<a href="https://twitter.com/BougatayaSaid">
-  <img alt="Follow me on Twitter" src="http://imageshack.us/a/img812/3923/smallth.png" />
-</a>
-<a href="https://www.linkedin.com/in/said-bougataya/">
-  <img alt="Add me to Linkedin" src="http://imageshack.us/a/img41/7877/smallld.png" />
-</a>
